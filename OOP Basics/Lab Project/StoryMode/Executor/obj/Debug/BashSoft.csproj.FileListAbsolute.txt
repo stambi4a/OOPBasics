@@ -1,0 +1,6 @@
+E:\SoftUni\CSharpWeb\OOP Basics\Lab Project\00. CSharp-OOP-Basics-Course-Lab\StoryMode\Executor\bin\Debug\Executor.exe.config
+E:\SoftUni\CSharpWeb\OOP Basics\Lab Project\00. CSharp-OOP-Basics-Course-Lab\StoryMode\Executor\bin\Debug\Executor.exe
+E:\SoftUni\CSharpWeb\OOP Basics\Lab Project\00. CSharp-OOP-Basics-Course-Lab\StoryMode\Executor\bin\Debug\Executor.pdb
+E:\SoftUni\CSharpWeb\OOP Basics\Lab Project\00. CSharp-OOP-Basics-Course-Lab\StoryMode\Executor\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+E:\SoftUni\CSharpWeb\OOP Basics\Lab Project\00. CSharp-OOP-Basics-Course-Lab\StoryMode\Executor\obj\Debug\Executor.exe
+E:\SoftUni\CSharpWeb\OOP Basics\Lab Project\00. CSharp-OOP-Basics-Course-Lab\StoryMode\Executor\obj\Debug\Executor.pdb
